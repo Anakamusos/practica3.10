@@ -1,0 +1,13 @@
+h1{
+    background-color: black;
+    color: orange;
+    text-align: center;
+}
+body{
+    background-color: antiquewhite;
+}
+img.escudo{
+    float: right;
+    height: 100px;
+    width: 100px;
+}
